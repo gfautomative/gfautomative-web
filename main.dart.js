@@ -65708,7 +65708,7 @@ $S:0}
 A.aTf.prototype={
 $2(a,b){var s=null,r=this.a,q=J.e(r.x,b),p=A.am(8),o=J.a2(q),n=A.b([A.n9(u.q+A.h(o.h(q,"file_path")),new A.aTa(),B.d_,s,s)],t.p)
 if(o.h(q,"notes")!=null&&J.S(o.h(q,"notes")).length!==0)n.push(A.m8(4,A.bD(s,B.a5Q,B.Q,s,s,B.Wn,s,s,s,B.eT,s,s,s),s,s,s,4,s,s))
-if(r.d!=="completed")n.push(A.m8(s,A.io(s,A.bD(s,B.a5F,B.Q,s,s,B.i_,s,s,s,B.eT,s,s,s),B.O,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aTb(r,q),s,s,s,s,s,s,!1,B.cF),s,s,4,s,4,s))
+if(r.d!=="completed"&&r.y===1)n.push(A.m8(s,A.io(s,A.bD(s,B.a5F,B.Q,s,s,B.i_,s,s,s,B.eT,s,s,s),B.O,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aTb(r,q),s,s,s,s,s,s,!1,B.cF),s,s,4,s,4,s))
 return A.ck(A.es(!1,s,!0,A.hc(B.cc,n,B.w,B.wc,s),s,!0,s,s,s,s,s,s,s,s,s,s,new A.aTc(a,q),s,s,s,s,s,s,s),B.bR,s,2,s,new A.bK(p,B.W))},
 $S:23}
 A.aTc.prototype={
